@@ -130,3 +130,5 @@ __pycache__/
 local_settings.py
 db.sqlite3
 mediagit
+/static
+/media
