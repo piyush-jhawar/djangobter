@@ -47,15 +47,3 @@ email: STR
 phone: STR
 message: TEXT
 contact_date: DATE
-
-
-
-
-
-
-
-
-
-
-
-
